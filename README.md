@@ -20,7 +20,7 @@ Pour cela il suffit juste de faire un `conf t` puis un `hostname <nom du router>
 La carte nat est deja enlevé normalement.  
 
 * Définition des IPs statiques   
-Pour client1 : <img src="client1.png">
+Pour client1 : <img src="client1.png">    
 Pour client2 : <img src="client2.png">
 Pour server1 : <img src="serv1.png"> 
 
