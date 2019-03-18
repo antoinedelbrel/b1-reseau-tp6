@@ -32,3 +32,6 @@ Pour changer le nom de domaine des VMs il suffit de faire `echo 'nom de la vm' |
 
 * Remplir les fichier `hosts`  
 On va dans le fichier `hosts` en faisant `cd /etc/hosts` et on rajoute l'adresse ip des vm qu'on veut ping et on écrit le nom de la vm.
+
+
+# Lab  : Let's end this properly
